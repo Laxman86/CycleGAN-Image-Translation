@@ -1,0 +1,13 @@
+# Exclude model checkpoints & weights
+checkpoints/
+*.pth
+*.pt
+*.h5
+
+# Exclude local environment/cache files
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Exclude reference PDF (will link in README instead)
+Cycle_Gan_Paper.pdf
