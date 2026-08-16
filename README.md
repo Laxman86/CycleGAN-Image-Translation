@@ -1,8 +1,8 @@
 # CycleGAN: Unpaired Image-to-Image Translation
 
-An implementation of Cycle-Consistent Generative Adversarial Networks (CycleGAN) built using PyTorch. This project performs image-to-image translation between two unpaired domains without requiring matching input-output training pairs.
+> **Academic Note:** Developed as an assignment for the **Artificial Intelligence** module during **Semester 1** of **M.Sc. Cyber Security** at **National Forensic Sciences University (NFSU)**.
 
-Developed as part of the M.Sc. Cyber Security curriculum (AI / Deep Learning Coursework).
+An implementation of Cycle-Consistent Generative Adversarial Networks (CycleGAN) built using PyTorch.
 
 ---
 
