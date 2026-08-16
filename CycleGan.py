@@ -27,8 +27,8 @@ BATCH_SIZE = 1
 IMG_HEIGHT, IMG_WIDTH = 256, 256
 LAMBDA = 5
 
-EPOCHS = 10            # ⭐ Increased for higher accuracy
-MAX_STEPS = 1000       # ⭐ Increased steps for stronger training
+EPOCHS = 10            #  Increased for higher accuracy
+MAX_STEPS = 1000       #  Increased steps for stronger training
 
 os.makedirs("samples", exist_ok=True)
 os.makedirs("checkpoints", exist_ok=True)
